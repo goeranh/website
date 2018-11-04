@@ -1,0 +1,16 @@
+---
+title: A new post
+author: Göran Henriksson
+date: '2018-10-31'
+slug: a-new-post
+categories: []
+tags: []
+---
+
+Detta är en ny post. Kollar om det funkar med  formler
+
+$$e = mc^2$$
+
+Nja, det gjorde det inte, undrar vad det beror på...
+
+![](/post/rich_poor.jpg)

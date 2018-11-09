@@ -19,7 +19,7 @@
 
 
 &lt;p&gt;Detta är en ny post. Kollar om det funkar med formler&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$$e = mc^2$$&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[e = mc^2\]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Nja, det gjorde det inte, undrar vad det beror på…&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/post/rich_poor.jpg&#34; /&gt;&lt;/p&gt;
 </description>

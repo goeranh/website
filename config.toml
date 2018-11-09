@@ -1,10 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "My own website"
-theme = "vienna"
+theme = "story-master"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [permalinks]
